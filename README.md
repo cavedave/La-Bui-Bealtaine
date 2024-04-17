@@ -15,7 +15,7 @@ The text is about 20 minutes long. So if people can read the english. Knowing th
 If you can help with any of these please contact me.
 
 - Proof the Irish Text to remove errors
-- Make a good Audio Recording of the Irish text.
+- Make a good Audio Recording of the Irish text. This can be put up on Soundcloud, youtube etc. The easier it is to find the better.
 - Fix the English translation. At the moment it is machine translated and that is not at all good.
 
 # Files
@@ -25,5 +25,6 @@ If you can help with any of these please contact me.
 - Properly translated English text
 - Machine Audio version
 - Proper Audio Version
+- Pdf pictures of text to help proofreading
 
 
