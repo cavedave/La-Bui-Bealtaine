@@ -25,6 +25,6 @@ If you can help with any of these please contact me.
 - Properly translated English text
 - Machine Audio version
 - Proper Audio Version
-- Pdf pictures of text to help proofreading
+- Pdf pictures of text to help proofreading: BuiImage.pdf
 
 
