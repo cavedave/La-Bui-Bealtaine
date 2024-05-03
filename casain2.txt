@@ -29,7 +29,7 @@ agus sciorta ar an dath céanna uirtha. Naprún uirtha chomh maith.
 Tá an tine ar an taobh clé (istigh) den stáitse. Ar thaobh amháin den
 tine tá bord agus dhá chathaoir in aice leis. Tá clog ar an mbord. Ar
 chúl an stáitse tá doras agus laiste air. Amuigh, ach nach féidir é a
-fhescmt, tá casán ag teacht anuas án mbóthar, mar a bhfual geala, go
+fheiscint, tá casán ag teacht anuas án mbóthar, mar a bhfual geala, go
 dtí an doras. Ar an taobh deas den stáitse tá doras seomra. Láimh leis
 sin ach níos gaire do thosach an stáitse tá drisiúr ina sheasamh agus
 cófra mar bhonn faoi.
@@ -41,6 +41,7 @@ féidir liom fanacht socair. Tá uamhan istigh i mo chroí
 mar chomh cinnte is atá Dia ann tháinig sé trasna ar na
 Duilleánaigh ar an tsochraid agus má tháinig... Níl aon
 smacht aige ar a chuid feirge.
+
 Siúlann sí mórthimpeall. Cloistear fothram capaill is cairr
 amuigh. Éisteann sí agus ritheann go dlí an doras.
 
@@ -79,8 +80,7 @@ SEÁN Bhuel - féach orm. 'Bhfuil aon rud bunoscionn liom? Níl
 MÁIRE Tá rud éigin ar t'aigne, 
 
 SEÁN (De ghuth níos airde) Níl...a deirim... níl. Táim chomh 
-maith d'fhear le héinne beo — sa pharóiste seo — pér
-domhan é. Ach tabhair dom braoinín
+maith d'fhear le héinne beo — sa pharóiste seo — pér domhan é. Ach tabhair dom braoinín
 
 Téann a bhean go dtí an cófra á sholáthar dó. Suíonn sé féin ar
 chathaoir in aice an bhoird
@@ -108,7 +108,7 @@ go minic de m'ainneoin féin. Uaireanta, a Mháire, agus
 mé ar an bportach ag ól braoinín tae, nó ag tarraingt
 sheanphíopa thuas ansin ag Ard an Bhóthair agus boladh
 an fhéir nuabhainte mórthimpeall orm, mothaím na
-sprideanna a bheith ar Íud na háite. Á,a bhean, maidin
+sprideanna a bheith ar fud na háite. Á,a bhean, maidin
 shamhraidh agus an ghrian ina meall órga sa spéir thoir,
 
 
@@ -152,7 +152,7 @@ MÁIRE Ciúnaigh tú féin, suigh síos.
 SEÁN Ní shuífead . .. deineadh taibhreamh ait dom aréir — bhíos
 ag taibhreamh ar m'athair agus ar mo mháthair — gura
 bog a leapacha sna flaithis anocht. .. Ní thiocfaidh aon
-mhaitheas as. Cheapas gur tháiúig m athair bocht an
+mhaitheas as. Cheapas gur tháinig m'athair bocht an
 doras isteach agus gur thóg sé leis an seanghunna sin a
 bhíodh ar crochadh ar an mballa. Bhí sé chomh bán lena
 léine. Dhein mo mháthair iarracht ar é a stopadh ach
