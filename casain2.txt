@@ -331,7 +331,7 @@ minic. Tiocfaidh na Duilleánaigh anocht tar éis
 choimheascar an lae inniu. Síleann siad go bhfuilimse i
 m'aonar. Tuigeann tusa níos fearr ná mar a thuigimse
 conas é seo a chosc. Ná tabhair le rá dóibh gur ghéill
-tathair. Mharódh sé é.
+t'athair. Mharódh sé é.
 
 Cromann Mícheál a cheann ar a bhosa.
 
@@ -347,8 +347,7 @@ MÍCHEÁL (Go híseal) Tuigim, a Dhaid. Glac go réidh an scéal.
 Táim ag machnamh.
 
 SEÁN Ag machnamh, an ea? Ní chuige sin a chuireas fios ort go
-dtí an teach seo. Ní Mathúnach thú mara ndéanann tú é
-seo a chosc.
+dtí an teach seo. Ní Mathúnach thú mara ndéanann tú é seo a chosc.
 Cloistear an dordán níos gaire fós. Ardaíonn Mícheál a cheann.
 
 MÍCHEÁL Mallacht ar an leoraí sin! Ná himeodh sé leis féin.
@@ -378,7 +377,7 @@ MÁIRE Buail amach agus féach Bricí. Tá sí ag casachtaigh ar
 feadh an tráthnóna. Tá rud éigin bunoscionn léi. Déan,
 a Sheáin, iarraim ort é.
 
-Tógamn, sé anuas am laindéar, lasann é agus sánn isteach ina
+Tógann, sé anuas am laindéar, lasann é agus sánn isteach ina
 láimh é.
 
 MÁIRE Cúpla nóiméad, a Sheáin.
@@ -404,7 +403,7 @@ bheith ag éisteacht le sranntanaigh na mbuachaillí sínte in
 aice leat a fhad is a bhíonn do smaointe féin ag brú isteach
 ort de h'ainneoin — cuid acu go brónach, cuid acu go
 haoibhinn, ach iad go léir measctha trína chéile, agus ó
-chuala go raibh Tomás san anm, ní thiteann néal codhlata
+chuala go raibh Tomás san arm, ní thiteann néal codhlata
 ar mo shúile in aon chor ach mé ag samhlú doim fein lá
 éigin go mbead i luíochán agus go dtiocfaidh sé sin an
 treo... . agus go n-aithneoidh sé mé agus go n-oscláidh sé
@@ -450,7 +449,7 @@ MÁIRE A Sheáin, ná bac le Mícheál.
 SEÁN A mhic, táim i dteannta a deirim ...
 
 Chíonn sé an piostal. Léimeann sé chuige agus tógann é.
-Ratheann. Mícheál faoima dhéan.
+Ritheann Mícheál faoina dhéin.
 
 SEÁN Druid siar, a mhic. In ainm Dé, druid siar! Tá sprid ait
 ionam anocht. Mharóinn mo mhac féin anois, druid siar!
@@ -466,7 +465,8 @@ linn sin.
 
 *********
 
-Táim ag fanacht libh. Tá an tscansprid ionam anocht,
+Táim ag fanacht libh. Tá an tseansprid ionam anocht,
+
 Cloistear mar a bheadh duine ag útamáil móúrthimpeal amuigh
 
 SEAN Tagaigí. Anois chífimid cé a gheobhaidh ag Casán,
@@ -480,7 +480,7 @@ Ardaíonn sé an gunna. Cuirtear lámh ar an laiste. Tá an doras
 
 MÍCHEÁL As Ucht. Dé stad!
 
-Déanan sé iarracht ar an ngunna a ardú suas ach teispeann air
+Déanan sé iarracht ar an ngunna a ardú suas ach teipeann air.
 Scaoileann seán pileár. Titean duine an doras isteach
 Ritheann Seán amach ag béicíl
 
@@ -496,8 +496,9 @@ Seáin isteach, agus an gunna ina ghlac aige.
 SEÁN Anois chífimid cé aige a mbeidh an casán --
 
 Aithníonn sé a mhac Croitheann sé ó bhonn go baithis agus:
-titeann an gunna or am talamh. Titean sé féin ...agus casán
-... casán fola lena éadan!
+titeann an gunna or am talamh. Titean sé féin 
+
+SEÁN A Chriost!... mo Mhac!... mo mhac féin...agus casán... casán fola lena éadan!
 
 BRAT
 **********
