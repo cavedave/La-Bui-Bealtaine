@@ -1,7 +1,11 @@
+Irish plays text in English and Irish
+
 # Lá-Buí-Bealtaine
 Lá Buí Bealtaine le Máiréad Ní Ghrada 1955
 
 An Casán by Séamus de Bhilmot 1928
+
+The King By Padraig Pearse 1912
 
 
 ![image](https://github.com/cavedave/La-Bui-Bealtaine/assets/777764/d2dee292-6531-4921-9d23-8148646f7e6b)
@@ -37,3 +41,11 @@ An Casán by Séamus de Bhilmot
 - Machine Audio version
 - Proper Audio Version
 - Pdf pictures of text to help proofreading: https://photos.google.com/share/AF1QipOvMJMDws8l5_-Bhit0_zeQsx-8I1mgq9OyhbJUgPAHWPpTz_Jm83FxWDQ2Z_zjKw?key=dlVYQ0JYcmItSURWWFZ6Y1Z4YllIbjdING1vLTBn
+
+- The King By Padraig Pearse
+- Irish Text:   
+- Properly translated English text
+- Machine Audio version
+- Proper Audio Version
+- Pdf pictures of text to help proofreading: English https://archive.org/details/in.ernet.dli.2015.49109/page/n69/mode/2up
+Irish https://archive.org/details/an-ri/AnR%C3%AD_A5_S00/mode/2up
