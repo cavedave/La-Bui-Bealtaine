@@ -42,8 +42,8 @@ An Casán by Séamus de Bhilmot
 - Proper Audio Version
 - Pdf pictures of text to help proofreading: https://photos.google.com/share/AF1QipOvMJMDws8l5_-Bhit0_zeQsx-8I1mgq9OyhbJUgPAHWPpTz_Jm83FxWDQ2Z_zjKw?key=dlVYQ0JYcmItSURWWFZ6Y1Z4YllIbjdING1vLTBn
 
-- The King By Padraig Pearse
-- Irish Text:   
+The King By Padraig Pearse
+- Irish Text:   https://github.com/cavedave/La-Bui-Bealtaine/blob/main/converted_ANRI%CC%81.txt
 - Properly translated English text https://github.com/cavedave/La-Bui-Bealtaine/blob/main/THE%20KING
 - Machine Audio version
 - Proper Audio Version
